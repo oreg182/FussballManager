@@ -1,0 +1,637 @@
+Name,League,Rating,Coach,Money
+Juventus,Serie A TIM,100,0,0
+FC Barcelona,LaLiga Santander,100,0,0
+Paris Saint-Germain,Ligue 1 Conforama,100,0,0
+Manchester United,Premier League,100,0,0
+Manchester City,Premier League,100,0,0
+Chelsea,Premier League,100,0,0
+Real Madrid,LaLiga Santander,100,0,0
+FC Bayern München,Bundesliga,100,0,0
+Atlético Madrid,LaLiga Santander,100,0,0
+Tottenham Hotspur,Premier League,100,0,0
+Liverpool,Premier League,100,0,0
+Milan,Serie A TIM,100,0,0
+Napoli,Serie A TIM,100,0,0
+Inter,Serie A TIM,100,0,0
+Arsenal,Premier League,100,0,0
+Lazio,Serie A TIM,100,0,0
+Vissel Kobe,Meiji Yasuda J1 League,100,0,0
+FC Schalke 04,Bundesliga,100,0,0
+Valencia CF,LaLiga Santander,100,0,0
+Borussia Dortmund,Bundesliga,100,0,0
+FC Porto,Liga NOS,100,0,0
+Roma,Serie A TIM,100,0,0
+AS Monaco Football Club SA,Ligue 1 Conforama,100,0,0
+Beşiktaş JK,Süper Lig,100,0,0
+RC Celta,LaLiga Santander,100,0,0
+Olympique Lyonnais,Ligue 1 Conforama,100,0,0
+LA Galaxy,Major League Soccer,100,0,0
+Guangzhou Evergrande Taobao,CSL,100,0,0
+Bayer 04 Leverkusen,Bundesliga,100,0,0
+Real Sociedad,LaLiga Santander,100,0,0
+Villarreal CF,LaLiga Santander,100,0,0
+SL Benfica,Liga NOS,100,0,0
+Leicester City,Premier League,100,0,0
+Real Betis,LaLiga Santander,100,0,0
+Olympique de Marseille,Ligue 1 Conforama,100,0,0
+Atalanta,Serie A TIM,100,0,0
+AS Saint-Étienne,Ligue 1 Conforama,100,0,0
+West Ham United,Premier League,100,0,0
+Borussia Mönchengladbach,Bundesliga,100,0,0
+RB Leipzig,Bundesliga,100,0,0
+Sporting CP,Liga NOS,100,0,0
+Ajax,Eredivisie,100,0,0
+Everton,Premier League,100,0,0
+Sevilla FC,LaLiga Santander,100,0,0
+TSG 1899 Hoffenheim,Bundesliga,100,0,0
+Athletic Club,LaLiga Santander,100,0,0
+OGC Nice,Ligue 1 Conforama,100,0,0
+1. FC Köln,Bundesliga 2,100,0,0
+Wolverhampton Wanderers,Premier League,100,0,0
+Al Nassr,Saudi Professional League,100,0,0
+Dalian Yifang FC,CSL,100,0,0
+VfL Wolfsburg,Bundesliga,100,0,0
+Medipol Başakşehir FK,Süper Lig,100,0,0
+Shanghai SIPG FC,CSL,100,0,0
+Shakhtar Donetsk,Ukrayina Liha,100,0,0
+Torino,Serie A TIM,100,0,0
+Hertha BSC,Bundesliga,100,0,0
+Crystal Palace,Premier League,100,0,0
+SV Werder Bremen,Bundesliga,100,0,0
+Lokomotiv Moscow,League of Russia,100,0,0
+Sassuolo,Serie A TIM,100,0,0
+Toronto FC,Major League Soccer,100,0,0
+Fulham,Premier League,100,0,0
+New York City FC,Major League Soccer,100,0,0
+Beijing Guoan,CSL,100,0,0
+Sampdoria,Serie A TIM,100,0,0
+Montpellier Hérault SC,Ligue 1 Conforama,100,0,0
+PSV,Eredivisie,100,0,0
+Atlanta United,Major League Soccer,100,0,0
+Watford,Premier League,100,0,0
+Fenerbahçe SK,Süper Lig,100,0,0
+Stoke City,EFL Championship,100,0,0
+SD Eibar,LaLiga Santander,100,0,0
+Galatasaray SK,Süper Lig,100,0,0
+CSKA Moscow,League of Russia,100,0,0
+Genoa,Serie A TIM,100,0,0
+VfB Stuttgart,Bundesliga,100,0,0
+Levante UD,LaLiga Santander,100,0,0
+Los Angeles Football Club,Major League Soccer,100,0,0
+Al Hilal,Saudi Professional League,100,0,0
+Tianjin Quanjian FC,CSL,100,0,0
+Eintracht Frankfurt,Bundesliga,100,0,0
+Fiorentina,Serie A TIM,100,0,0
+RCD Espanyol,LaLiga Santander,100,0,0
+Tigres U.A.N.L.,LIGA Bancomer MX,100,0,0
+Chievo Verona,Serie A TIM,100,0,0
+Burnley,Premier League,100,0,0
+Buenos Aires,SAF,100,0,0
+Girona FC,LaLiga Santander,100,0,0
+Getafe CF,LaLiga Santander,100,0,0
+Portland Timbers,Major League Soccer,100,0,0
+Impact Montréal,Major League Soccer,100,0,0
+Chicago Fire Soccer Club,Major League Soccer,100,0,0
+D.C. United,Major League Soccer,100,0,0
+Sagan Tosu,Meiji Yasuda J1 League,100,0,0
+Beijing Renhe,CSL,100,0,0
+Hebei China Fortune FC,CSL,100,0,0
+SC Braga,Liga NOS,100,0,0
+Southampton,Premier League,100,0,0
+Guangzhou R&F FC,CSL,100,0,0
+Cagliari,Serie A TIM,100,0,0
+FC Nantes,Ligue 1 Conforama,100,0,0
+D. Alavés,LaLiga Santander,100,0,0
+1. FSV Mainz 05,Bundesliga,100,0,0
+Spartak Moscow,League of Russia,100,0,0
+Feyenoord,Eredivisie,100,0,0
+Bournemouth,Premier League,100,0,0
+River Plate,SAF,100,0,0
+Trabzonspor,Süper Lig,100,0,0
+FC Augsburg,Bundesliga,100,0,0
+PAOK,Hellas Liga,100,0,0
+Club Brugge KV,Belgium Pro League,100,0,0
+Sport-Club Freiburg,Bundesliga,100,0,0
+Huddersfield Town,Premier League,100,0,0
+Cruz Azul,LIGA Bancomer MX,100,0,0
+Independiente,SAF,100,0,0
+Al Ahli,Saudi Professional League,100,0,0
+Racing Club,SAF,100,0,0
+FC Dynamo Kyiv,Ukrayina Liha,100,0,0
+Jiangsu Suning FC,CSL,100,0,0
+Stade Rennais FC,Ligue 1 Conforama,100,0,0
+LOSC Lille,Ligue 1 Conforama,100,0,0
+KRC Genk,Belgium Pro League,100,0,0
+UD Las Palmas,LaLiga 1 I 2 I 3,100,0,0
+Olympiacos CFP,Hellas Liga,100,0,0
+CD Leganés,LaLiga Santander,100,0,0
+Newcastle United,Premier League,100,0,0
+Hamburger SV,Bundesliga 2,100,0,0
+Bologna,Serie A TIM,100,0,0
+RSC Anderlecht,Belgium Pro League,100,0,0
+FC Girondins de Bordeaux,Ligue 1 Conforama,100,0,0
+Brighton & Hove Albion,Premier League,100,0,0
+Toulouse Football Club,Ligue 1 Conforama,100,0,0
+San Lorenzo de Almagro,SAF,100,0,0
+Hannover 96,Bundesliga,100,0,0
+Monterrey,LIGA Bancomer MX,100,0,0
+Kaizer Chiefs,South African FL,100,0,0
+Stade Malherbe Caen,Ligue 1 Conforama,100,0,0
+Al Ittihad,Saudi Professional League,100,0,0
+R. Valladolid CF,LaLiga Santander,100,0,0
+Standard de Liège,Belgium Pro League,100,0,0
+Club Atlético Huracán,SAF,100,0,0
+Deportivo Cali,Liga Dimayor,100,0,0
+Akhisar Belediyespor,Süper Lig,100,0,0
+Club Atlas,LIGA Bancomer MX,100,0,0
+Querétaro,LIGA Bancomer MX,100,0,0
+FC Red Bull Salzburg,Österreichische Fußball-Bundesliga,100,0,0
+Frosinone,Serie A TIM,100,0,0
+Godoy Cruz,SAF,100,0,0
+Tondela,Liga NOS,100,0,0
+Melbourne Victory,Hyundai A-League,100,0,0
+Shandong Luneng Taishan,CSL,100,0,0
+Shanghai Greenland Shenhua FC,CSL,100,0,0
+Parma,Serie A TIM,100,0,0
+RC Strasbourg Alsace,Ligue 1 Conforama,100,0,0
+BSC Young Boys,Raiffeisen Super League,100,0,0
+West Bromwich Albion,EFL Championship,100,0,0
+RC Deportivo,LaLiga 1 I 2 I 3,100,0,0
+Swansea City,EFL Championship,100,0,0
+Málaga CF,LaLiga 1 I 2 I 3,100,0,0
+Udinese,Serie A TIM,100,0,0
+FC Basel,Raiffeisen Super League,100,0,0
+En Avant de Guingamp,Ligue 1 Conforama,100,0,0
+Celtic,Scottish Premiership,100,0,0
+KAA Gent,Belgium Pro League,100,0,0
+Club América,LIGA Bancomer MX,100,0,0
+Seattle Sounders FC,Major League Soccer,100,0,0
+Club Atlético Lanús,SAF,100,0,0
+Aston Villa,EFL Championship,100,0,0
+Rayo Vallecano,LaLiga Santander,100,0,0
+Amiens SC,Ligue 1 Conforama,100,0,0
+Columbus Crew SC,Major League Soccer,100,0,0
+Club Atlético Banfield,SAF,100,0,0
+Derby County,EFL Championship,100,0,0
+Junior FC,Liga Dimayor,100,0,0
+Göztepe SK,Süper Lig,100,0,0
+New York Red Bulls,Major League Soccer,100,0,0
+FC Groningen,Eredivisie,100,0,0
+Deportivo Toluca,LIGA Bancomer MX,100,0,0
+Portimonense SC,Liga NOS,100,0,0
+Kasimpaşa SK,Süper Lig,100,0,0
+Universidad Católica,Campeonato Scotiabank,100,0,0
+Al Wehda,Saudi Professional League,100,0,0
+Guizhou Hengfeng FC,CSL,100,0,0
+Changchun Yatai FC,CSL,100,0,0
+Nottingham Forest,EFL Championship,100,0,0
+Vitória Guimarães,Liga NOS,100,0,0
+Antalyaspor,Süper Lig,100,0,0
+Angers SCO,Ligue 1 Conforama,100,0,0
+SPAL,Serie A TIM,100,0,0
+Club León,LIGA Bancomer MX,100,0,0
+AEK Athens,Hellas Liga,100,0,0
+Chaves,Liga NOS,100,0,0
+Atlético Nacional,Liga Dimayor,100,0,0
+Leeds United,EFL Championship,100,0,0
+U.N.A.M.,LIGA Bancomer MX,100,0,0
+Dijon FCO,Ligue 1 Conforama,100,0,0
+Alanyaspor,Süper Lig,100,0,0
+R. Sporting,LaLiga 1 I 2 I 3,100,0,0
+Club Tijuana,LIGA Bancomer MX,100,0,0
+Santos Laguna,LIGA Bancomer MX,100,0,0
+Melbourne City,Hyundai A-League,100,0,0
+Middlesbrough,EFL Championship,100,0,0
+FC København,Superliga,100,0,0
+San Jose Earthquakes,Major League Soccer,100,0,0
+Colón de Santa Fe,SAF,100,0,0
+Cardiff City,Premier League,100,0,0
+Philadelphia Union,Major League Soccer,100,0,0
+Kawasaki Frontale,Meiji Yasuda J1 League,100,0,0
+SD Huesca,LaLiga Santander,100,0,0
+Empoli,Serie A TIM,100,0,0
+Foggia,Calcio B,100,0,0
+Al Taawoun,Saudi Professional League,100,0,0
+Nagoya Grampus,Meiji Yasuda J1 League,100,0,0
+MKE Ankaragücü,Süper Lig,100,0,0
+Büyükşehir Belediye Erzurumspor,Süper Lig,100,0,0
+Chongqing Lifan FC,CSL,100,0,0
+Çaykur Rizespor,Süper Lig,100,0,0
+CD Viñazur,Campeonato Scotiabank,100,0,0
+Viktoria Plzeň,Česká Liga,100,0,0
+Royal Antwerp FC,Belgium Pro League,100,0,0
+Pachuca,LIGA Bancomer MX,100,0,0
+Guadalajara,LIGA Bancomer MX,100,0,0
+Kayserispor,Süper Lig,100,0,0
+Granada CF,LaLiga 1 I 2 I 3,100,0,0
+FC Ingolstadt 04,Bundesliga 2,100,0,0
+Monarcas Morelia,LIGA Bancomer MX,100,0,0
+Rio Ave FC,Liga NOS,100,0,0
+Norwich City,EFL Championship,100,0,0
+Sheffield Wednesday,EFL Championship,100,0,0
+Panathinaikos FC,Hellas Liga,100,0,0
+AZ,Eredivisie,100,0,0
+Benevento,Calcio B,100,0,0
+Club Necaxa,LIGA Bancomer MX,100,0,0
+Atiker Konyaspor,Süper Lig,100,0,0
+Vitesse,Eredivisie,100,0,0
+Rosario Central,SAF,100,0,0
+1. FC Nürnberg,Bundesliga,100,0,0
+Reading,EFL Championship,100,0,0
+KV Oostende,Belgium Pro League,100,0,0
+Orlando City Soccer Club,Major League Soccer,100,0,0
+Desportivo Aves,Liga NOS,100,0,0
+FC Midtjylland,Superliga,100,0,0
+Palermo,Calcio B,100,0,0
+Legia Warszawa,Ekstraklasa,100,0,0
+1. FC Heidenheim 1846,Bundesliga 2,100,0,0
+Holstein Kiel,Bundesliga 2,100,0,0
+Vitória Setúbal,Liga NOS,100,0,0
+Sporting Kansas City,Major League Soccer,100,0,0
+Sydney FC,Hyundai A-League,100,0,0
+Brescia,Calcio B,100,0,0
+Perth Glory,Hyundai A-League,100,0,0
+Argentinos Juniors,SAF,100,0,0
+Ipswich Town,EFL Championship,100,0,0
+Boavista FC,Liga NOS,100,0,0
+SV Zulte-Waregem,Belgium Pro League,100,0,0
+SK Rapid Wien,Österreichische Fußball-Bundesliga,100,0,0
+Houston Dynamo,Major League Soccer,100,0,0
+Heracles Almelo,Eredivisie,100,0,0
+Racing Club de Lens,Domino’s Ligue 2,100,0,0
+Fortuna Düsseldorf,Bundesliga,100,0,0
+R. Oviedo,LaLiga 1 I 2 I 3,100,0,0
+Stade de Reims,Ligue 1 Conforama,100,0,0
+Urawa Red Diamonds,Meiji Yasuda J1 League,100,0,0
+Brøndby IF,Superliga,100,0,0
+VVV-Venlo,Eredivisie,100,0,0
+Real Salt Lake,Major League Soccer,100,0,0
+Minnesota United FC,Major League Soccer,100,0,0
+Once Caldas,Liga Dimayor,100,0,0
+FC Sion,Raiffeisen Super League,100,0,0
+Club Atlético Talleres,SAF,100,0,0
+CD Everton de Viña del Mar,Campeonato Scotiabank,100,0,0
+Tianjin TEDA FC,CSL,100,0,0
+CD Universidad de Concepción,Campeonato Scotiabank,100,0,0
+GNK Dinamo Zagreb,Liga Hrvatska,100,0,0
+Ettifaq FC,Saudi Professional League,100,0,0
+Al Shabab,Saudi Professional League,100,0,0
+Slavia Praha,Česká Liga,100,0,0
+CD Tenerife,LaLiga 1 I 2 I 3,100,0,0
+Albacete Bpie,LaLiga 1 I 2 I 3,100,0,0
+Sparta Praha,Česká Liga,100,0,0
+Bursaspor,Süper Lig,100,0,0
+Hull City,EFL Championship,100,0,0
+Hellas Verona,Calcio B,100,0,0
+Sunderland,EFL League One,100,0,0
+FC Utrecht,Eredivisie,100,0,0
+Universidad de Chile,Campeonato Scotiabank,100,0,0
+Vancouver Whitecaps FC,Major League Soccer,100,0,0
+SV Darmstadt 98,Bundesliga 2,100,0,0
+CS Marítimo,Liga NOS,100,0,0
+FC Dallas,Major League Soccer,100,0,0
+Aberdeen,Scottish Premiership,100,0,0
+Puebla,LIGA Bancomer MX,100,0,0
+Rangers FC,Scottish Premiership,100,0,0
+Sivasspor,Süper Lig,100,0,0
+Football Club de Metz,Domino’s Ligue 2,100,0,0
+SC Heerenveen,Eredivisie,100,0,0
+Brentford,EFL Championship,100,0,0
+Evkur Yeni Malatyaspor,Süper Lig,100,0,0
+R. Zaragoza,LaLiga 1 I 2 I 3,100,0,0
+Belgrano de Córdoba,SAF,100,0,0
+Grasshopper Club Zürich,Raiffeisen Super League,100,0,0
+Estudiantes de La Plata,SAF,100,0,0
+Brisbane Roar,Hyundai A-League,100,0,0
+Queens Park Rangers,EFL Championship,100,0,0
+Preston North End,EFL Championship,100,0,0
+Millonarios FC,Liga Dimayor,100,0,0
+Salerno,Calcio B,100,0,0
+CD Numancia,LaLiga 1 I 2 I 3,100,0,0
+CD Feirense,Liga NOS,100,0,0
+Orlando Pirates,South African FL,100,0,0
+Rosenborg BK,Eliteserien,100,0,0
+Lech Poznań,Ekstraklasa,100,0,0
+NAC Breda,Eredivisie,100,0,0
+Moreirense FC,Liga NOS,100,0,0
+Willem II,Eredivisie,100,0,0
+AJ Auxerre,Domino’s Ligue 2,100,0,0
+Perugia,Calcio B,100,0,0
+Sanfrecce Hiroshima,Meiji Yasuda J1 League,100,0,0
+SK Sturm Graz,Österreichische Fußball-Bundesliga,100,0,0
+Vélez Sarsfield,SAF,100,0,0
+Venezia,Calcio B,100,0,0
+Havre Athletic Club,Domino’s Ligue 2,100,0,0
+Heart of Midlothian,Scottish Premiership,100,0,0
+Daegu FC,K LEAGUE Classic,100,0,0
+Patronato,SAF,100,0,0
+Gimnasia y Esgrima La Plata,SAF,100,0,0
+Livorno,Calcio B,100,0,0
+Henan Jianye FC,CSL,100,0,0
+IF Elfsborg,Allsvenskan,100,0,0
+CA Osasuna,LaLiga 1 I 2 I 3,100,0,0
+AIK,Allsvenskan,100,0,0
+Djurgårdens IF,Allsvenskan,100,0,0
+Nàstic,LaLiga 1 I 2 I 3,100,0,0
+1. FC Union Berlin,Bundesliga 2,100,0,0
+Independiente Santa Fe,Liga Dimayor,100,0,0
+ADO Den Haag,Eredivisie,100,0,0
+New England Revolution,Major League Soccer,100,0,0
+Colorado Rapids,Major League Soccer,100,0,0
+Ulsan Hyundai Horang-i,K LEAGUE Classic,100,0,0
+Kashima Antlers,Meiji Yasuda J1 League,100,0,0
+FC Lorient,Domino’s Ligue 2,100,0,0
+Club Atlético Tigre,SAF,100,0,0
+Cerezo Osaka,Meiji Yasuda J1 League,100,0,0
+Newell's Old Boys,SAF,100,0,0
+Western Sydney Wanderers,Hyundai A-League,100,0,0
+Cádiz CF,LaLiga 1 I 2 I 3,100,0,0
+KV Kortrijk,Belgium Pro League,100,0,0
+CF Reus,LaLiga 1 I 2 I 3,100,0,0
+Sporting Charleroi,Belgium Pro League,100,0,0
+MSV Duisburg,Bundesliga 2,100,0,0
+AD Alcorcón,LaLiga 1 I 2 I 3,100,0,0
+DSC Arminia Bielefeld,Bundesliga 2,100,0,0
+VfL Bochum 1848,Bundesliga 2,100,0,0
+América de Cali,Liga Dimayor,100,0,0
+Tiburones Rojos de Veracruz,LIGA Bancomer MX,100,0,0
+CD Lugo,LaLiga 1 I 2 I 3,100,0,0
+PEC Zwolle,Eredivisie,100,0,0
+FC St. Pauli,Bundesliga 2,100,0,0
+Malmö FF,Allsvenskan,100,0,0
+Sheffield United,EFL Championship,100,0,0
+Blackburn Rovers,EFL Championship,100,0,0
+Millwall,EFL Championship,100,0,0
+Suwon Samsung Bluewings,K LEAGUE Classic,100,0,0
+Unión de Santa Fe,SAF,100,0,0
+FK Austria Wien,Österreichische Fußball-Bundesliga,100,0,0
+Molde FK,Eliteserien,100,0,0
+KAS Eupen,Belgium Pro League,100,0,0
+Kashiwa Reysol,Meiji Yasuda J1 League,100,0,0
+F.C. Tokyo,Meiji Yasuda J1 League,100,0,0
+Carpi,Calcio B,100,0,0
+Athlétic Club Ajaccio,Domino’s Ligue 2,100,0,0
+SK Brann,Eliteserien,100,0,0
+Defensa y Justicia,SAF,100,0,0
+Al Fayha,Saudi Professional League,100,0,0
+Yokohama F・Marinos,Meiji Yasuda J1 League,100,0,0
+San Martín,SAF,100,0,0
+Al Fateh,Saudi Professional League,100,0,0
+Al Qadisiyah,Saudi Professional League,100,0,0
+Club Atlético Aldosivi,SAF,100,0,0
+Fortuna Sittard,Eredivisie,100,0,0
+Lecce,Calcio B,100,0,0
+Birmingham City,EFL Championship,100,0,0
+ESTAC Troyes,Domino’s Ligue 2,100,0,0
+AS Nancy Lorraine,Domino’s Ligue 2,100,0,0
+Crotone,Calcio B,100,0,0
+FC Seoul,K LEAGUE Classic,100,0,0
+Independiente Medellín,Liga Dimayor,100,0,0
+FC St. Gallen,Raiffeisen Super League,100,0,0
+Nîmes Olympique,Ligue 1 Conforama,100,0,0
+Kalmar FF,Allsvenskan,100,0,0
+Lechia Gdańsk,Ekstraklasa,100,0,0
+CF Os Belenenses,Liga NOS,100,0,0
+Bristol City,EFL Championship,100,0,0
+Jeonbuk Hyundai Motors,K LEAGUE Classic,100,0,0
+UD Almería,LaLiga 1 I 2 I 3,100,0,0
+Excelsior,Eredivisie,100,0,0
+SV Sandhausen,Bundesliga 2,100,0,0
+Eintracht Braunschweig,3. Liga,100,0,0
+Waasland-Beveren,Belgium Pro League,100,0,0
+BK Häcken,Allsvenskan,100,0,0
+Sporting Lokeren,Belgium Pro League,100,0,0
+Cremona,Calcio B,100,0,0
+Rionegro Águilas,Liga Dimayor,100,0,0
+Wigan Athletic,EFL Championship,100,0,0
+Jagiellonia Białystok,Ekstraklasa,100,0,0
+Córdoba CF,LaLiga 1 I 2 I 3,100,0,0
+La Spezia,Calcio B,100,0,0
+Gamba Osaka,Meiji Yasuda J1 League,100,0,0
+1. FC Magdeburg,Bundesliga 2,100,0,0
+Atlético Tucumán,SAF,100,0,0
+Deportes Tolima,Liga Dimayor,100,0,0
+Shimizu S-Pulse,Meiji Yasuda J1 League,100,0,0
+Hammarby IF,Allsvenskan,100,0,0
+Strømsgodset IF,Eliteserien,100,0,0
+Aarhus GF,Superliga,100,0,0
+IFK Norrköping,Allsvenskan,100,0,0
+Lobos B.U.A.P.,LIGA Bancomer MX,100,0,0
+Atlético Bucaramanga,Liga Dimayor,100,0,0
+Hibernian,Scottish Premiership,100,0,0
+Atlético Huila,Liga Dimayor,100,0,0
+Kilmarnock,Scottish Premiership,100,0,0
+Aalborg BK,Superliga,100,0,0
+FC Nordsjælland,Superliga,100,0,0
+Al Faisaly,Saudi Professional League,100,0,0
+Patriotas Boyacá FC,Liga Dimayor,100,0,0
+Odense Boldklub,Superliga,100,0,0
+Cittadella,Calcio B,100,0,0
+FC Lugano,Raiffeisen Super League,100,0,0
+Adelaide United,Hyundai A-League,100,0,0
+Wellington Phoenix,Hyundai A-League,100,0,0
+Júbilo Iwata,Meiji Yasuda J1 League,100,0,0
+Al Batin,Saudi Professional League,100,0,0
+CD Palestino,Campeonato Scotiabank,100,0,0
+GyeongNam FC,K LEAGUE Classic,100,0,0
+Deportes Iquique,Campeonato Scotiabank,100,0,0
+Rayo Majadahonda,LaLiga 1 I 2 I 3,100,0,0
+Pohang Steelers,K LEAGUE Classic,100,0,0
+Santa Clara,Liga NOS,100,0,0
+KSV Cercle Brugge,Belgium Pro League,100,0,0
+Funchal,Liga NOS,100,0,0
+SG Dynamo Dresden,Bundesliga 2,100,0,0
+1. FC Kaiserslautern,3. Liga,100,0,0
+Bolton Wanderers,EFL Championship,100,0,0
+Pescara,Calcio B,100,0,0
+Jeju United FC,K LEAGUE Classic,100,0,0
+SpVgg Greuther Fuerth,Bundesliga 2,100,0,0
+FC Erzgebirge Aue,Bundesliga 2,100,0,0
+Sint-Truidense VV,Belgium Pro League,100,0,0
+SSV Jahn Regensburg,Bundesliga 2,100,0,0
+Charlton Athletic,EFL League One,100,0,0
+Pogoń Szczecin,Ekstraklasa,100,0,0
+Alianza Petrolera,Liga Dimayor,100,0,0
+Stabæk Fotball,Eliteserien,100,0,0
+Valenciennes FC,Domino’s Ligue 2,100,0,0
+La Berrichonne de Châteauroux,Domino’s Ligue 2,100,0,0
+Clermont Foot 63,Domino’s Ligue 2,100,0,0
+Al Raed,Saudi Professional League,100,0,0
+Örebro SK,Allsvenskan,100,0,0
+FC Thun,Raiffeisen Super League,100,0,0
+Newcastle Jets,Hyundai A-League,100,0,0
+Cosenza Calcio,Calcio B,100,0,0
+Gangwon FC,K LEAGUE Classic,100,0,0
+CD Huachipato,Campeonato Scotiabank,100,0,0
+Neuchâtel Xamax,Raiffeisen Super League,100,0,0
+Unión Española,Campeonato Scotiabank,100,0,0
+Górnik Zabrze,Ekstraklasa,100,0,0
+San Luis de Quillota,Campeonato Scotiabank,100,0,0
+KFC Uerdingen 05,3. Liga,100,0,0
+Elche CF,LaLiga 1 I 2 I 3,100,0,0
+Wisła Płock,Ekstraklasa,100,0,0
+Cracovia,Ekstraklasa,100,0,0
+La Equidad,Liga Dimayor,100,0,0
+SC Paderborn 07,Bundesliga 2,100,0,0
+Stade Brestois 29,Domino’s Ligue 2,100,0,0
+Burton Albion,EFL League One,100,0,0
+Wisła Kraków,Ekstraklasa,100,0,0
+Jaguares Fútbol Club,Liga Dimayor,100,0,0
+FC Sochaux-Montbéliard,Domino’s Ligue 2,100,0,0
+Śląsk Wrocław,Ekstraklasa,100,0,0
+Ascoli,Calcio B,100,0,0
+FC Hansa Rostock,3. Liga,100,0,0
+SV Wehen-Wiesbaden,3. Liga,100,0,0
+FC Zürich,Raiffeisen Super League,100,0,0
+Jeonnam Dragons,K LEAGUE Classic,100,0,0
+Plymouth Argyle,EFL League One,100,0,0
+Scunthorpe United,EFL League One,100,0,0
+VfR Aalen,3. Liga,100,0,0
+Deportivo Pasto,Liga Dimayor,100,0,0
+Gazélec Football Club Ajaccio,Domino’s Ligue 2,100,0,0
+FC Luzern,Raiffeisen Super League,100,0,0
+SC Fortuna Köln,3. Liga,100,0,0
+Central Coast Mariners,Hyundai A-League,100,0,0
+Fleetwood Town,EFL League One,100,0,0
+Motherwell,Scottish Premiership,100,0,0
+Lincoln City,EFL League Two,100,0,0
+CD O'Higgins,Campeonato Scotiabank,100,0,0
+Padova,Calcio B,100,0,0
+CD Antofagasta,Campeonato Scotiabank,100,0,0
+Unión La Calera,Campeonato Scotiabank,100,0,0
+Shonan Bellmare,Meiji Yasuda J1 League,100,0,0
+Al-Hazem FC,Saudi Professional League,100,0,0
+RCD Mallorca,LaLiga 1 I 2 I 3,100,0,0
+Audax Italiano,Campeonato Scotiabank,100,0,0
+Grenoble Foot 38,Domino’s Ligue 2,100,0,0
+Red Star FC,Domino’s Ligue 2,100,0,0
+Peterborough United,EFL League One,100,0,0
+Club Deportes Temuco,Campeonato Scotiabank,100,0,0
+Rotherham United,EFL Championship,100,0,0
+Hokkaido Consadole Sapporo,Meiji Yasuda J1 League,100,0,0
+FC Admira Wacker Mödling,Österreichische Fußball-Bundesliga,100,0,0
+Tromsø IL,Eliteserien,100,0,0
+SpVgg Unterhaching,3. Liga,100,0,0
+Sangju Sangmu FC,K LEAGUE Classic,100,0,0
+Zagłębie Lubin,Ekstraklasa,100,0,0
+Karlsruher SC,3. Liga,100,0,0
+Oxford United,EFL League One,100,0,0
+Randers FC,Superliga,100,0,0
+Barnsley,EFL League One,100,0,0
+FC Würzburger Kickers,3. Liga,100,0,0
+Vålerenga Fotball,Eliteserien,100,0,0
+Odds BK,Eliteserien,100,0,0
+Arka Gdynia,Ekstraklasa,100,0,0
+Piast Gliwice,Ekstraklasa,100,0,0
+Hobro IK,Superliga,100,0,0
+FK Haugesund,Eliteserien,100,0,0
+Incheon United FC,K LEAGUE Classic,100,0,0
+Paris FC,Domino’s Ligue 2,100,0,0
+Wolfsberger AC,Österreichische Fußball-Bundesliga,100,0,0
+Envigado FC,Liga Dimayor,100,0,0
+Vegalta Sendai,Meiji Yasuda J1 League,100,0,0
+Ohod Club,Saudi Professional League,100,0,0
+AC Horsens,Superliga,100,0,0
+Cork City,SSE Airtricity League,100,0,0
+Extremadura UD,LaLiga 1 I 2 I 3,100,0,0
+San Martín de Tucumán,SAF,100,0,0
+V-Varen Nagasaki,Meiji Yasuda J1 League,100,0,0
+FC Emmen,Eredivisie,100,0,0
+De Graafschap,Eredivisie,100,0,0
+Lillestrøm SK,Eliteserien,100,0,0
+Sarpsborg 08 FF,Eliteserien,100,0,0
+Royal Excel Mouscron,Belgium Pro League,100,0,0
+Portsmouth,EFL League One,100,0,0
+Dundee FC,Scottish Premiership,100,0,0
+Luton Town,EFL League One,100,0,0
+IFK Göteborg,Allsvenskan,100,0,0
+SCR Altach,Österreichische Fußball-Bundesliga,100,0,0
+SønderjyskE,Superliga,100,0,0
+Bradford City,EFL League One,100,0,0
+Chamois Niortais Football Club,Domino’s Ligue 2,100,0,0
+St. Johnstone FC,Scottish Premiership,100,0,0
+Östersunds FK,Allsvenskan,100,0,0
+Southend United,EFL League One,100,0,0
+SG Sonnenhof Großaspach,3. Liga,100,0,0
+LASK Linz,Österreichische Fußball-Bundesliga,100,0,0
+Bristol Rovers,EFL League One,100,0,0
+Korona Kielce,Ekstraklasa,100,0,0
+SV Mattersburg,Österreichische Fußball-Bundesliga,100,0,0
+Mansfield Town,EFL League Two,100,0,0
+HJK Helsinki,Finnliiga,100,0,0
+Crawley Town,EFL League Two,100,0,0
+GIF Sundsvall,Allsvenskan,100,0,0
+Shrewsbury,EFL League One,100,0,0
+Accrington Stanley,EFL League One,100,0,0
+Stevenage,EFL League Two,100,0,0
+FC Wacker Innsbruck,Österreichische Fußball-Bundesliga,100,0,0
+Curicó Unido,Campeonato Scotiabank,100,0,0
+TSV 1860 München,3. Liga,100,0,0
+US Orléans Loiret Football,Domino’s Ligue 2,100,0,0
+Milton Keynes Dons,EFL League Two,100,0,0
+VfL Osnabrück,3. Liga,100,0,0
+SC Preußen Münster,3. Liga,100,0,0
+Notts County,EFL League Two,100,0,0
+Rochdale,EFL League One,100,0,0
+FSV Zwickau,3. Liga,100,0,0
+Doncaster Rovers,EFL League One,100,0,0
+Walsall,EFL League One,100,0,0
+IK Sirius,Allsvenskan,100,0,0
+Coventry City,EFL League One,100,0,0
+Wycombe Wanderers,EFL League One,100,0,0
+Colchester United,EFL League Two,100,0,0
+FC Carl Zeiss Jena,3. Liga,100,0,0
+Grimsby Town,EFL League Two,100,0,0
+Dundalk,SSE Airtricity League,100,0,0
+Blackpool,EFL League One,100,0,0
+Bohemian FC,SSE Airtricity League,100,0,0
+Kristiansund BK,Eliteserien,100,0,0
+Vejle Boldklub,Superliga,100,0,0
+Boyacá Chicó FC,Liga Dimayor,100,0,0
+Miedź Legnica,Ekstraklasa,100,0,0
+Esbjerg fB,Superliga,100,0,0
+IK Start,Eliteserien,100,0,0
+Oldham Athletic,EFL League Two,100,0,0
+Ranheim Fotball,Eliteserien,100,0,0
+FK Bodø/Glimt,Eliteserien,100,0,0
+St. Mirren,Scottish Premiership,100,0,0
+Bury,EFL League Two,100,0,0
+Northampton Town,EFL League Two,100,0,0
+VfL Sportfreunde Lotte,3. Liga,100,0,0
+Exeter City,EFL League Two,100,0,0
+AFC Wimbledon,EFL League One,100,0,0
+Swindon Town,EFL League Two,100,0,0
+SV Meppen,3. Liga,100,0,0
+SKN St. Pölten,Österreichische Fußball-Bundesliga,100,0,0
+Sandefjord Fotball,Eliteserien,100,0,0
+Cambridge United,EFL League Two,100,0,0
+Cheltenham Town,EFL League Two,100,0,0
+Livingston FC,Scottish Premiership,100,0,0
+Hallescher FC,3. Liga,100,0,0
+Vendsyssel FF,Superliga,100,0,0
+Gillingham,EFL League One,100,0,0
+Carlisle United,EFL League Two,100,0,0
+Port Vale,EFL League Two,100,0,0
+St. Patrick's Athletic,SSE Airtricity League,100,0,0
+Morecambe,EFL League Two,100,0,0
+Forest Green Rovers,EFL League Two,100,0,0
+TSV Hartberg,Österreichische Fußball-Bundesliga,100,0,0
+Leones FC,Liga Dimayor,100,0,0
+Dalkurd FF,Allsvenskan,100,0,0
+AS Béziers,Domino’s Ligue 2,100,0,0
+FC Energie Cottbus,3. Liga,100,0,0
+Zagłębie Sosnowiec,Ekstraklasa,100,0,0
+Trelleborgs FF,Allsvenskan,100,0,0
+Shamrock Rovers,SSE Airtricity League,100,0,0
+Hamilton Academical FC,Scottish Premiership,100,0,0
+Crewe Alexandra,EFL League Two,100,0,0
+Yeovil Town,EFL League Two,100,0,0
+Newport County,EFL League Two,100,0,0
+Derry City,SSE Airtricity League,100,0,0
+IF Brommapojkarna,Allsvenskan,100,0,0
+Tranmere Rovers,EFL League Two,100,0,0
+Sligo Rovers,SSE Airtricity League,100,0,0
+Waterford FC,SSE Airtricity League,100,0,0
+Macclesfield Town,EFL League Two,100,0,0
+Limerick FC,SSE Airtricity League,100,0,0
+Bray Wanderers,SSE Airtricity League,100,0,0
