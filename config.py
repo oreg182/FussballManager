@@ -2,7 +2,9 @@ import json
 
 
 def read_entry(entry, *path):
-    """entry: Gesuchten Eintrag; path optional bei Unterverzeichnissen - jeden Schritt in richtiger Reihenfolge angeben"""
+    """
+        entry: Gesuchten Eintrag; path optional bei Unterverzeichnissen - jeden Schritt in richtiger Reihenfolge angeben
+    """
     with open('config.json', encoding='utf-8') as file:
         d = json.load(file)
         if path:

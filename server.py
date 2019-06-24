@@ -54,7 +54,7 @@ class RecvConnection(Thread, _Server):
             if _Server.stop:
                 break
             log('sock is listening')
-            sock1.listen(5)
+            sock1.listen(2)
             conn, addr = sock1.accept()
             thread = HandleConnection(conn, addr)
             thread.start()
