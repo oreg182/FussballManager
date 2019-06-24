@@ -21,7 +21,7 @@ class Database:
                         return row
 
     def all_from_category(self, category, value):
-        with open(self.file) as file:
+        with open(self.file, encoding='utf-8') as file:
             reader = csv.DictReader(file)
             ret = list()
             for row in reader:
