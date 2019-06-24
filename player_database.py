@@ -1,7 +1,6 @@
 import csv
 
 
-
 class Database:
 
     def __init__(self):
@@ -51,10 +50,9 @@ def all_from_club(club):
     return __database.all_from_category('Club', club)
 
 
-def __new_entry(random=True):
-    if random:
-        pass
+# TODO schreibzugriff
 
+# TODO neue erstellen
 
 if __name__ == '__main__':
     print(read_player_value(2860, 'Shape'))

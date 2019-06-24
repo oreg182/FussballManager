@@ -25,7 +25,7 @@ def read_club_value(name, value):
     try:
         return __database.read(name, value)
     except KeyError:
-        return None
+        raise KeyError
 
 
 def read_club(name):
@@ -34,6 +34,8 @@ def read_club(name):
     except KeyError:
         raise KeyError
 
+
+# TODO schreibzugriff
 
 if __name__ == '__main__':
     print(read_club('Juventus'))
