@@ -4,10 +4,10 @@ from league import League
 
 class Gui:
 
-    def __init__(self):
+    def __init__(self, league):
         self.root = Tk()
         self.tableframe = Frame()
-        self.__tableframe(PL)
+        self.__tableframe(league)
         self.tableframe.pack()
         self.root.mainloop()
 
@@ -34,4 +34,4 @@ class Gui:
 if __name__ == '__main__':
     from league import League
     PL = League('Premier League')
-    g = Gui()
+    g = Gui(PL)

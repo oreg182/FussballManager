@@ -2,6 +2,7 @@ import logging
 import datetime
 import sys
 import socket as so
+import json
 from threading import Thread
 from config import read_entry
 
@@ -26,17 +27,25 @@ class _Server:
     """class for all server commands"""
     stop = False
 
+    @staticmethod
     def _send_back_to_client(addr, msg: str):
         sock = so.socket(so.AF_INET, so.SOCK_STREAM)
         sock.connect((addr, RESPONSEPORT))
         sock.send(msg.encode('utf-8'))
         sock.close()
 
+    @staticmethod
+    def send_result(league, addr):
+        with open('leagues/' + league + 'results.dat', encoding='utf-8') as file:
+            fix = json.load(file)
+        _Server._send_back_to_client(addr, fix)
+
 
 class RecvConnection(Thread, _Server):
 
     def __init__(self):
         super().__init__()
+
     def run(self):
         sock1 = so.socket()
         sock1.bind(('', SERVERPORT))
@@ -51,9 +60,8 @@ class RecvConnection(Thread, _Server):
             thread.start()
 
 
-
-
 class HandleConnection(Thread):
+
     def __init__(self, conn: so.socket, addr):
         super(HandleConnection, self).__init__()
         self.ipaddr = addr[0]
@@ -63,8 +71,11 @@ class HandleConnection(Thread):
     def run(self):
         msg = self.conn.recv(8192).decode('utf-8')
         header = msg.split('><')[0]
+        msg = msg.split('><')[1]
         log(msg)
         self.conn.close()
+        if header == 'FIXTURE':
+            _Server.send_result(msg, self.ipaddr)
 
 
 if __name__ == '__main__':
