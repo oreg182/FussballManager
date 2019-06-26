@@ -20,7 +20,7 @@ logging.basicConfig(filename=LOGPATH + '/server' + timestr + '.log', level=loggi
 
 def log(msg):
     logging.debug(msg)
-    print(msg)
+    #print(msg)
 
 
 class _Server:
@@ -28,17 +28,21 @@ class _Server:
     stop = False
 
     @staticmethod
-    def _send_back_to_client(addr, msg: str):
+    def _send_back_to_client(addr, msg):
         sock = so.socket(so.AF_INET, so.SOCK_STREAM)
         sock.connect((addr, RESPONSEPORT))
-        sock.send(msg.encode('utf-8'))
+        if type(msg) == str:
+            sock.send(msg.encode('utf-8'))
+        elif type(msg) == list:
+            sock.send(json.dumps(msg))
         sock.close()
 
     @staticmethod
     def send_result(league, addr):
-        with open('leagues/' + league + 'results.dat', encoding='utf-8') as file:
+        with open('leagues/' + league + '/results.dat') as file:
             fix = json.load(file)
-        _Server._send_back_to_client(addr, fix)
+            print(type(fix))
+            _Server._send_back_to_client(addr, fix)
 
 
 class RecvConnection(Thread, _Server):

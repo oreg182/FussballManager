@@ -1,4 +1,4 @@
-from player_database import read_player
+from Server.player_database import read_player
 
 fieldnames = ['ID', 'Name', 'Rating', 'SkillMoves', 'WeakFoot', 'Pace', 'Shooting', 'Passing', 'Dribbling',
               'Defending', 'Physicality', 'Position', 'WR_Off', 'WR_Def', 'Height', 'Club', 'Country', 'League',

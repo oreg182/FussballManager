@@ -1,6 +1,6 @@
 from player import Player
-from club_database import read_club_value, read_club
-from player_database import all_from_club
+from club_database import read_club
+from Server.player_database import all_from_club
 
 
 class _ClubAI:
